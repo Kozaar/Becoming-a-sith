@@ -1,0 +1,160 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Stormtrooper",
+      "location": 1,
+      "npc_type": 0
+    },
+    {
+      "id": 2,
+      "name": "Simple clone Adam",
+      "location": 1,
+      "npc_type": 0
+    },
+    {
+      "id": 3,
+      "name": "Simple clone Bob",
+      "location": 2,
+      "npc_type": 0
+    },
+    {
+      "id": 4,
+      "name": "Simple clone Charlie",
+      "location": 2,
+      "npc_type": 0
+    },
+    {
+      "id": 5,
+      "name": "Simple clone David",
+      "location": 2,
+      "npc_type": 0
+    },
+    {
+      "id": 6,
+      "name": "Simple clone Eve",
+      "location": 2,
+      "npc_type": 0
+    },
+    {
+      "id": 7,
+      "name": "Simple clone Frank",
+      "location": 2,
+      "npc_type": 0
+    },
+    {
+      "id": 8,
+      "name": "Simple clone George",
+      "location": 1,
+      "npc_type": 0
+    },
+    {
+      "id": 9,
+      "name": "Simple clone Henry",
+      "location": 6,
+      "npc_type": 0
+    },
+    {
+      "id": 10,
+      "name": "Simple clone Ida",
+      "location": 6,
+      "npc_type": 0
+    },
+    {
+      "id": 11,
+      "name": "Simple clone John",
+      "location": 8,
+      "npc_type": 0
+    },
+    {
+      "id": 12,
+      "name": "Simple clone Kate",
+      "location": 8,
+      "npc_type": 0
+    },
+    {
+      "id": 13,
+      "name": "Simple clone Larry",
+      "location": 9,
+      "npc_type": 0
+    },
+    {
+      "id": 14,
+      "name": "Simple clone Mary",
+      "location": 9,
+      "npc_type": 0
+    },
+    {
+      "id": 15,
+      "name": "Simple clone Nancy",
+      "location": 11,
+      "npc_type": 0
+    },
+    {
+      "id": 16,
+      "name": "Simple clone Oscar",
+      "location": 11,
+      "npc_type": 0
+    },
+    {
+      "id": 17,
+      "name": "Simple clone Peter",
+      "location": 11,
+      "npc_type": 0
+    },
+    {
+      "id": 18,
+      "name": "Simple clone Quin",
+      "location": 10,
+      "npc_type": 0
+    },
+    {
+      "id": 19,
+      "name": "Simple clone Robert",
+      "location": 5,
+      "npc_type": 0
+    },
+    {
+      "id": 20,
+      "name": "Simple clone Susan",
+      "location": 7,
+      "npc_type": 0
+    },
+    {
+      "id": 21,
+      "name": "Simple clone Tom",
+      "location": 2,
+      "npc_type": 0
+    },
+    {
+      "id": 22,
+      "name": "Intendant Huskar",
+      "location": 1,
+      "npc_type": 2
+    },
+    {
+      "id": 23,
+      "name": "Medic Hilka",
+      "location": 1,
+      "npc_type": 1
+    },
+    {
+      "id": 24,
+      "name": "Captain Kain",
+      "location": 1,
+      "npc_type": 3
+    },
+    {
+      "id": 25,
+      "name": "Lost pilot X-10",
+      "location": 9,
+      "npc_type": 0
+    },
+    {
+      "id": 26,
+      "name": "Door to 5",
+      "location": 4,
+      "npc_type": 0
+    }
+  ]
+}

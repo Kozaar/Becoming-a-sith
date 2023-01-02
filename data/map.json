@@ -1,0 +1,112 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Entrance",
+      "description": "Entrance to the Jedi Temple",
+      "linkUp": 2,
+      "linkDown": 0,
+      "linkLeft": 0,
+      "linkRight": 0
+    },
+    {
+      "id": 2,
+      "name": "Hallway",
+      "description": "A long hallway, with a door to the left and a door to the right.",
+      "linkUp": 6,
+      "linkDown": 1,
+      "linkLeft": 3,
+      "linkRight": 4
+    },
+    {
+      "id": 3,
+      "name": "Library",
+      "description": "A large library, with many holocrons and books.",
+      "linkUp": 0,
+      "linkDown": 0,
+      "linkLeft": 0,
+      "linkRight": 2
+    },
+    {
+      "id": 4,
+      "name": "Dining Room",
+      "description": "A large dining room, with many tables and chairs, spoons and forks, and a large table in the middle.",
+      "linkUp": 5,
+      "linkDown": 0,
+      "linkLeft": 2,
+      "linkRight": 0
+    },
+    {
+      "id": 5,
+      "name": "Cellar",
+      "description": "A dark cellar, with many barrels and crates, it smells of wine and cheese. It's dark, and you can see nothing.",
+      "linkUp": 0,
+      "linkDown": 4,
+      "linkLeft": 0,
+      "linkRight": 0
+    },
+    {
+      "id": 6,
+      "name": "Lift",
+      "description": "A lift, with a button to go up and a button to go down.",
+      "linkUp": 7,
+      "linkDown": 10,
+      "linkLeft": 2,
+      "linkRight": 0
+    },
+    {
+      "id": 7,
+      "name": "Down Hallway",
+      "description": "A long hallway, with a door forward and a door to the right.",
+      "linkUp": 8,
+      "linkDown": 6,
+      "linkRight": 9,
+      "linkLeft": 0
+    },
+    {
+      "id": 8,
+      "name": "Arsenal",
+      "description": "A large room, with many weapons and armour.",
+      "linkUp": 0,
+      "linkDown": 7,
+      "linkLeft": 0,
+      "linkRight": 0
+    },
+    {
+      "id": 9,
+      "name": "Medbay",
+        "description": "A large room, with many beds and medical equipment.",
+        "linkUp": 0,
+        "linkDown": 0,
+        "linkLeft": 7,
+        "linkRight": 0
+    },
+    {
+      "id": 10,
+      "name": "Up Hallway",
+      "description": "A long hallway, with a door forward and a door to the right.",
+      "linkUp": 11,
+      "linkDown": 6,
+      "linkRight": 12,
+      "linkLeft": 0
+    },
+    {
+        "id": 11,
+        "name": "Training Room",
+        "description": "A large room, with many training droids and a large training area.",
+        "linkUp": 0,
+        "linkDown": 10,
+        "linkLeft": 0,
+        "linkRight": 0
+    },
+    {
+        "id": 12,
+        "name": "Council Room",
+        "description": "A large room, with a large table in the middle, and a large window.",
+        "linkUp": 0,
+        "linkDown": 0,
+        "linkLeft": 10,
+        "linkRight": 0
+    }
+  ]
+}
